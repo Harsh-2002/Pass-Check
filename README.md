@@ -41,7 +41,7 @@ When building this tool, we wanted to create something that's not just useful, b
 5. **Adaptable**: The dark mode and mobile-friendly design make sure you can use this tool comfortably anywhere, anytime.
 
 ## How to Use
-1. Open the `index.html` file in your web browser.
+1. Open the page `https://passcheck.arson.me/` in your web browser.
 2. Type a password in the input field or use the "Generate Password" button.
 3. See the strength of your password instantly!
 4. Use the tips provided to make your password even stronger.
