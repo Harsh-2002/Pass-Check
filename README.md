@@ -23,7 +23,6 @@ Our Password Strength Calculator uses a clever system to figure out how strong y
 - **Password Generator**: Don't want to think of a password? No worries! You can use the "Generate Password" button to create a strong password for you.
 - **Copy to Clipboard**: Easy copying of your password with just one click.
 - **Show/Hide Password**: You can toggle between showing and hiding your password as you type.
-- **Dark Mode**: For all you night owls, we've included a dark mode that's easy on the eyes.
 
 ## The Code Behind It All
 Our project uses HTML, CSS, and JavaScript to create a smooth and interactive experience. Here's a breakdown:
