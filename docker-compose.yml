@@ -1,0 +1,11 @@
+version: '3'
+services:
+  password-strength-calculator:
+    build: 
+      context: .
+      dockerfile: Dockerfile
+    image: password-checker:latest
+    container_name: password-checker
+    ports:
+      - "11000:80"
+    restart: unless-stopped
